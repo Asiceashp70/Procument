@@ -1,0 +1,55 @@
+[11-Jun-26 13:40:43.38] Starting reset
+Project: C:\DailyReport\production-procurement\
+Database: C:\DailyReport\production-procurement\backend\prisma\prod.db
+v25.5.0
+
+Reset completed.
+Backup: C:\DailyReport\production-procurement\backend\prisma\prod.db.reset-clear-stock-backup-20260611064043
+Foreign key violations: 0
+
+Kept data counts:
+- Product: 5516 -> 5516
+- ProductStock: 39 -> 39
+- ProductUnit: 20 -> 20
+- Category: 14 -> 14
+- Unit: 23 -> 23
+- Supplier: 617 -> 617
+- SupplierProduct: 0 -> 0
+- UserPermission: 6 -> 6
+
+Cleared document tables:
+- POAmountApproval: 0 -> 0
+- POReviewRequest: 0 -> 0
+- StockConvertRequestUnit: 0 -> 0
+- StockConvertUnit: 0 -> 0
+- StockConvertAllocation: 0 -> 0
+- StockConvertRequestItem: 0 -> 0
+- StockConvertRequest: 0 -> 0
+- StockConvert: 0 -> 0
+- BorrowItemAllocation: 0 -> 0
+- BorrowItemUnit: 0 -> 0
+- BorrowExtension: 0 -> 0
+- BorrowItem: 0 -> 0
+- BorrowRequest: 0 -> 0
+- IssueAllocation: 0 -> 0
+- IssueItem: 0 -> 0
+- IssueRequest: 0 -> 0
+- StockTransaction: 0 -> 0
+- StockLot: 0 -> 0
+- GRItem: 0 -> 0
+- GoodsReceipt: 0 -> 0
+- POItem: 0 -> 0
+- PurchaseOrder: 0 -> 0
+- PRItem: 0 -> 0
+- PurchaseRequisition: 0 -> 0
+- WimItem: 0 -> 0
+- WimRequest: 0 -> 0
+- BillOfMaterialItem: 0 -> 0
+- BillOfMaterial: 0 -> 0
+- ProjectBudgetWorkOrder: 0 -> 0
+- ProjectBudget: 0 -> 0
+
+Stock quantity reset:
+- Product: 5516 rows updated
+- ProductStock: 39 rows updated
+- ProductUnit: 20 rows updated
